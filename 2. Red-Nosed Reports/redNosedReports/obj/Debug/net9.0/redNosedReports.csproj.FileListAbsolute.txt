@@ -1,0 +1,15 @@
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/redNosedReports.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/redNosedReports.AssemblyInfoInputs.cache
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/redNosedReports.AssemblyInfo.cs
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/redNosedReports.csproj.CoreCompileInputs.cache
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/redNosedReports.sourcelink.json
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/bin/Debug/net9.0/redNosedReports
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/bin/Debug/net9.0/redNosedReports.deps.json
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/bin/Debug/net9.0/redNosedReports.runtimeconfig.json
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/bin/Debug/net9.0/redNosedReports.dll
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/bin/Debug/net9.0/redNosedReports.pdb
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/redNosedReports.dll
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/refint/redNosedReports.dll
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/redNosedReports.pdb
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/redNosedReports.genruntimeconfig.cache
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/2. Red-Nosed Reports/redNosedReports/obj/Debug/net9.0/ref/redNosedReports.dll
