@@ -1,0 +1,14 @@
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/bin/Debug/net9.0/historianHysteria
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/bin/Debug/net9.0/historianHysteria.deps.json
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/bin/Debug/net9.0/historianHysteria.runtimeconfig.json
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/bin/Debug/net9.0/historianHysteria.dll
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/bin/Debug/net9.0/historianHysteria.pdb
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/obj/Debug/net9.0/historianHysteria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/obj/Debug/net9.0/historianHysteria.AssemblyInfoInputs.cache
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/obj/Debug/net9.0/historianHysteria.AssemblyInfo.cs
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/obj/Debug/net9.0/historianHysteria.csproj.CoreCompileInputs.cache
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/obj/Debug/net9.0/historianHysteria.dll
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/obj/Debug/net9.0/refint/historianHysteria.dll
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/obj/Debug/net9.0/historianHysteria.pdb
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/obj/Debug/net9.0/historianHysteria.genruntimeconfig.cache
+/Users/alexanderbeswick/Documents/Dev/advent_of_code/1. Historian hysteria/historianHysteria/obj/Debug/net9.0/ref/historianHysteria.dll
